@@ -1,0 +1,48 @@
+body{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 45px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+.exited{
+    color: orange;
+    font-weight: 900;
+}
+.halp-width{
+    float: left;
+    width: 40%;
+    margin: 2% 2%;
+    padding: 1%;
+}
+.halp-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#extra{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    padding: 2%;
+    border-left: 7px solid orangered;
+    border-image: linear-gradient(180deg, tomato orangered);
+    border-image-slice: 1;
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
